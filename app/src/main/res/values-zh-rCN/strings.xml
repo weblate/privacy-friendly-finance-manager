@@ -14,8 +14,8 @@
     <string name="help">帮助</string>
     <string name="submit">提交</string>
     <string name="cancel">取消</string>
-    <string name="okay">好的</string>
-    <string name="next">下一步</string>
+    <string name="okay">确定</string>
+    <string name="next">继续</string>
     <string name="skip">跳过</string>
     <string name="please_note">请注意：</string>
     <string name="weeks">周</string>
@@ -37,8 +37,8 @@
     <string name="nav_main_action">交易概览</string>
     <string name="nav_tutorial_action">教程</string>
     <string name="nav_category_action">分类</string>
-    <string name="nav_drawer_toggle_open_desc">打开导航抽屉</string>
-    <string name="nav_drawer_toggle_close_desc">关闭导航抽屉</string>
+    <string name="nav_drawer_toggle_open_desc">打开抽屉式导航栏</string>
+    <string name="nav_drawer_toggle_close_desc">关闭抽屉式导航栏</string>
     <!--### H E L P ###-->
     <string-array name="activity_help_questions">
         <item>Privacy Friendly Finance Manager 是什么？</item>
@@ -63,9 +63,9 @@
     <string name="activity_about_version">版本 v%s</string>
     <string name="activity_about_authors">作者：</string>
     <string name="activity_about_authors_contributors">及贡献者。</string>
-    <string name="activity_about_affiliation">从属于</string>
-    <string name="activity_about_belongs">本应用属于卡尔斯鲁厄理工学院（KIT）开发的“隐私友好应用”系列。源代码在GPLv3许可证下授权。图片版权归 KIT 和 Google Inc 所有。</string>
-    <string name="activity_about_more_info">更多信息请见:</string>
+    <string name="activity_about_affiliation">隶属于</string>
+    <string name="activity_about_belongs">本应用属于卡尔斯鲁厄理工学院开发的“隐私友好型应用”系列。源代码采用 GPLv3 许可。图像版权归卡尔斯鲁厄理工学院和 Google Inc. 所有。</string>
+    <string name="activity_about_more_info">更多信息请访问：</string>
     <!-- R E P E A T I N G _ T R A N S A C T I O N S-->
     <string name="activity_repeating_transactions_title">重复交易</string>
     <string name="repeat_text_unit_template">重复 %U</string>
