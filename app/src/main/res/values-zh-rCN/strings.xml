@@ -135,7 +135,7 @@
     <string name="activity_tutorial_slide1_title">欢迎！</string>
     <string name="activity_tutorial_slide1_msg">欢迎来到隐私友好的财务管家。本应用不使用任何权限。</string>
     <string name="activity_tutorial_slide2_title">财务管家</string>
-    <string name="activity_tutorial_slide2_msg">你可以嘴中你的开支和收入来管理财务。</string>
+    <string name="activity_tutorial_slide2_msg">你可以追踪你的开支和收入来管理财务。</string>
     <string name="activity_tutorial_slide3_title">新建交易</string>
     <string name="activity_tutorial_slide3_msg">"单击主视图的加号按钮你可以新建交易。之后你可以输入金额、标题、日期和分类。此外你可以指定该交易是支出还是收入。 "</string>
     <string name="activity_tutorial_slide4_title">交易概览</string>
