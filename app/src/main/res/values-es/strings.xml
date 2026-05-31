@@ -49,7 +49,7 @@
     <string name="repeat_unit_every_n_month">cada %N% mes</string>
     <string name="repeat_ends_at">Termina el</string>
     <string name="repeat_delete_action">Eliminar transacción recurrente</string>
-    <string name="repeat_delete_question">Todas las transacciones generadas se conservarán, pero perderán su referencia a esta transacción recurrente.<br/> Esto <i>no</i> se puede deshacer.<br/><br/>¿Está seguro de que desea eliminar la transacción recurrente <b>%1$s</b>\?</string>
+    <string name="repeat_delete_question">Todas las transacciones generadas se conservarán, pero perderán su referencia a esta transacción recurrente.<br/>Esto <i>no</i> se puede deshacer.<br/><br/>¿Está seguro de que desea eliminar la transacción recurrente <b>%1$s</b>\?</string>
     <string name="repeat_deleted_msg">Transacción recurrente eliminada</string>
     <string name="category">Categoría</string>
     <string name="category_plural">Categorías</string>
